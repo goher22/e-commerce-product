@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.code.whiskers</groupId>
-	<artifactId>mic-e-commerce-auth</artifactId>
+	<artifactId>mic-e-commerce-product</artifactId>
 	<version>1.0.0</version>
-	<name>mic-e-commerce-auth</name>
-	<description>Este servicio manejará el login, creación y gestión de usuarios utilizando JWT para la autenticación.</description>
+	<name>mic-e-commerce-product</name>
+	<description>Este microservicio se encarga de la gestion de los productos.</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
